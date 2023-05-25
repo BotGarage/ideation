@@ -8,5 +8,8 @@ BotGarage is intended to become a community. Ideally this is a place to hang out
 
 There are no rules or guidelines for how to contribute apart from making sure we get along nicely. That's it.
 
+# Organisation
+Please use the ideation repository onyl to phrase and discuss ideas. Once you feel like building a feature, kindly move it to a separate repository.
+
 # Links
 [Unity AI companion](https://github.com/3Vis3/NFT_AI_Companion) form EthGlobal Lisbon
