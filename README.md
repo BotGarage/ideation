@@ -13,3 +13,5 @@ Please use the ideation repository only to phrase and discuss ideas. Once you fe
 
 # Links
 [Unity AI companion](https://github.com/3Vis3/NFT_AI_Companion) form EthGlobal Lisbon
+[Tree of thoughts research paper](https://arxiv.org/pdf/2305.10601.pdf) (Google Deepmind)
+[Open Assistant](https://projects.laion.ai/Open-Assistant/)
