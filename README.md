@@ -12,6 +12,6 @@ There are no rules or guidelines for how to contribute apart from making sure we
 Please use the ideation repository only to phrase and discuss ideas. Once you feel like building a feature, kindly move it to a separate repository.
 
 # Links
-[Unity AI companion](https://github.com/3Vis3/NFT_AI_Companion) form EthGlobal Lisbon
-[Tree of thoughts research paper](https://arxiv.org/pdf/2305.10601.pdf) (Google Deepmind)
+[Unity AI companion](https://github.com/3Vis3/NFT_AI_Companion) form EthGlobal Lisbon <br>
+[Tree of thoughts research paper](https://arxiv.org/pdf/2305.10601.pdf) (Google Deepmind) <br>
 [Open Assistant](https://projects.laion.ai/Open-Assistant/)
